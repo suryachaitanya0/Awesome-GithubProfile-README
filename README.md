@@ -1,11 +1,11 @@
-# Awesome-profile-README
+# Awesome-profile-README:octocat:
 
-Your beginner Profile-README Guide( A Guide to create a Awesome Profile-README).
+Your beginner Profile-README Guide( A Guide to create a Awesome Profile-README). :smiley:
 
 Github recently released a feature which allows users to create a profile-level README to display on their GitHub profile page,
 This is a great way to introduce yourself to the Github community as you highlight your skills and projects.
 
-# Table of contents:
+# Table of contents::book: 
 
 - [What's a Github Profile-README?](#What's-a-Github-Profile-README?)
 - [How do I create a Profile-README?](#How-do-I-create-a-Profile-README?)
@@ -28,36 +28,36 @@ The Profile-README is created by creating a new repo that’s the same name as y
 
 ### This is how it works:
 
-1. Create a repo with your github username (e.g. `https://github.com/#your-username/#your-username`)
+**1. Create a repo with your github username (e.g. `https://github.com/#your-username/#your-username`)**
 
 For example, my GitHub username is `suryachaitanya0` so, I created a new repo with the name `suryachaitanya0`.(The letter-casing must match your GitHub username.)
 
 _One thing to Note: If you already have a project in a repo-named `#username/#username` and are interested in setting up a Profile-level README, then I recommend re-naming 
 that repository._
 
-2. Create a `README.md` file inside the repo.
+**2. Create a `README.md` file inside the repo.**
 
-3. Add content( introduction text,banner, links, GIFs, images, emojis, etc).
+**3. Add content( introduction text,banner, links, GIFs, images, emojis, etc).**
 
-4. Commit your new README!
+**4. Commit your new README!**
 
   If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e., master or main) which will make it immediately 
   visible on your profile) or Push changes to GitHub if you made changes locally (i.e., on your computer).
 
-That's it.
+That's it.:clap:
 
 ## What to add to your README?
 
-1. A Greeting message.
+**1. A Greeting message.**
 
-2. Bio or Self-description(Try to keep it simple).
+**2. Bio or Self-description(Try to keep it simple).**
 
-3. Make your page memorable by Adding Images, Icons and GIF to make the page look bit dynamic, instead of just filling it with text.
+**3. Make your page memorable by Adding Images, Icons and GIF to make the page look bit dynamic, instead of just filling it with text.**
 
   You can also add a hero image( A large banner at the top of your page).
   This is the first thing that people will see when they visit, so make it exciting!
 
-4. Include Stats
+**4. Include Stats**
 
   If you are using Github for your projects or use it to contribute to open source, you probably have a lot of commits and Pull Requests.
   
@@ -66,7 +66,7 @@ That's it.
   
   #### Link to repo: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   
-  ### Adding GitHub Stats Card
+  ### 1. Adding GitHub Stats Card
    Copy paste this into your markdown content, and that's it. Simple!
    Change the `?username=` value to your GitHub's username.
    
@@ -76,7 +76,7 @@ That's it.
    
    _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
    
-   ### Include Top Languages Card
+   ### 2. Include Top Languages Card
 
    Top languages card shows github user's top langauges which has been mostly used.
 
@@ -92,19 +92,19 @@ That's it.
    
    #### For more Information on stats visit [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
    
-6. You are not limited to Markdown when it comes to editing your README. Github's Flavored Markdown allows using some of the HTML tags.
+**6. You are not limited to Markdown when it comes to editing your README. Github's Flavored Markdown allows using some of the HTML tags.**
 
 	Here's some of the basic things you can do:
 	* Center a section using `<center>`
 	* Create a widget that opens and closes using `<details>`
 
-7. Want to link to external sites? Add some icons which redirect to your social networks or projects.
+**7. Want to link to external sites? Add some icons which redirect to your social networks or projects.**
   I recommend using the free and open source RemixIcon library and just changed the color to suit the color scheme.
   
   _One thing to note: Make sure your images are of great quality. We wouldn't want images to show up pixelated.
   If you are using vector images, upload them using SVG instead of JPG or PNG._
 
-8. Add counter to GitHub profile
+**8. Add View-counter to GitHub profile**
 
  [Anton komarev](https://github.com/antonkomarev) created amazing widget which counts the visitors.
  
@@ -118,9 +118,11 @@ That's it.
  
  #### For more Information about counter visit [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter/)
  
-9. Highlighting, what all your working on right now.
+ I recommand to create a own view-counter
+ 
+**9. Highlighting, what all your working on right now.**
 
-10. automate your GitHub profile README
+**10. automate your GitHub profile README**
 	
 	* [Create a dynamic Markdown file with Go and GitHub Actions](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
 	* You can also display latest blogs posts dynamically using [Github Action](https://github.com/features/actions)
