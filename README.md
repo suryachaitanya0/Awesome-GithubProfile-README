@@ -69,9 +69,11 @@ That's it.
   ### Adding GitHub Stats Card
    Copy paste this into your markdown content, and that's it. Simple!
    Change the `?username=` value to your GitHub's username.
+   
    ```md
    [![github stats](https://github-readme-stats.vercel.app/api?username=#your-username)](https://github.com/anuraghazra/github-readme-stats)
    ```
+   
    _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
    
    ### Include Top Languages Card
@@ -80,7 +82,7 @@ That's it.
 
    _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of       github-readme-stats_
 
-   Copy-paste this code into your readme and change the links.
+   Copy-paste this code into your readme and Change the `?username=` value to your GitHub's username..
 
    Endpoint: `api/top-langs?username=anuraghazra`
 
@@ -88,9 +90,10 @@ That's it.
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=#your-username)](https://github.com/anuraghazra/github-readme-stats)
    ```
    
-   ####For more Information on stats visit [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+   #### For more Information on stats visit [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
    
 6. You are not limited to Markdown when it comes to editing your README. Github's Flavored Markdown allows using some of the HTML tags.
+
 	Here's some of the basic things you can do:
 	* Center a section using `<center>`
 	* Create a widget that opens and closes using `<details>`
@@ -101,16 +104,26 @@ That's it.
   _One thing to note: Make sure your images are of great quality. We wouldn't want images to show up pixelated.
   If you are using vector images, upload them using SVG instead of JPG or PNG._
 
-8. Profile visitors counter
- Add visitor counter to ur Profile-README
-https://visitor-badge.glitch.me/
+8. Add counter to GitHub profile
 
-9. Highlighting, what all I am working on right now etc
+ [Anton komarev](https://github.com/antonkomarev) created amazing widget which counts the visitors.
+ 
+ #### Link to repo: [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter/)
+ 
+ Copy-paste this code into your readme and Change the `?username=` value to your GitHub's username.
+
+ ```markdown
+ ![](https://komarev.com/ghpvc/?username=#your-username)
+ ```
+ 
+ #### For more Information about counter visit [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter/)
+ 
+9. Highlighting, what all your working on right now.
 
 10. automate your GitHub profile README
-	display latest blogs posts dynamically (Github Action)
-	Go automate your GitHub profile README https://victoria.dev/blog/go-automate-your-github-profile-readme/
-	Create a dynamic Markdown file with Go and GitHub Actions
+	
+	* [Create a dynamic Markdown file with Go and GitHub Actions](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
+	* You can also display latest blogs posts dynamically using [Github Action](https://github.com/features/actions)
 
 ## Tired of editing Github Profile-README?
 
