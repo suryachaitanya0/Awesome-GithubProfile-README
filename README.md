@@ -1,22 +1,23 @@
 # Awesome-profile-README
 
-Your beginner Profile-README Guide( A guide to create a Awesome Profile-README)
+Your beginner Profile-README Guide( A guide to create a Awesome Profile-README).
 
 Github recently released a feature which allows users to create a profile-level README to display on their GitHub profile page,
 This is a great way to introduce yourself to the Github community as you highlight your skills and projects.
 
 # Table of contents:
 
-[What's a Github Profile-README?](#What's-a-Github-Profile-README?)
-[How do I create a Profile-README?](#How-do-I-create-a-Profile-README?)
-[What to add to your README?](#What-to-add-to-your-README?)
-[References](#References)
-[Additional Resources](#Additional-Resources)
-[Contributions](#Contributions)
+- [What's a Github Profile-README?](#What's-a-Github-Profile-README?)
+- [How do I create a Profile-README?](#How-do-I-create-a-Profile-README?)
+- [What to add to your README?](#What-to-add-to-your-README?)
+- [References](#References)
+- [Additional Resources](#Additional-Resources)
+- [Contributions](#Contributions)
 
 ## What's a Github Profile-README?
 
 Apparently `www.github.com/#your-username/#your-username` is a ✨special ✨ repository that you can use to add a `README.md` to your GitHub profile.
+
 The GitHub profile-level README feature allows more content than the profile bio, supports markdown which means you can play around with 
 the content more visually and the `README.md` is significantally more visible as it is placed above pinned repositories
 and takes up as much space above the fold of the webpage as you like.
@@ -84,23 +85,23 @@ https://visitor-badge.glitch.me/
 ## Tired of editing Github Profile-README?
 
 This tool provides an easy way to create github profile readme with latest addons like visitors count, github stats etc.
-https://github.com/rahuldkjain/github-profile-readme-generator
+- https://github.com/rahuldkjain/github-profile-readme-generator
 
 ## References:
 
-https://github.com/coderjojo/creative-profile-readme
-https://github.com/kautukkundan/Awesome-Profile-README-templates
+- https://github.com/coderjojo/creative-profile-readme
+- https://github.com/kautukkundan/Awesome-Profile-README-templates
 
 ## Additional Resources:
 
-https://mytrashcode.com/github-profile-readme-examples
-https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
-https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
+- https://mytrashcode.com/github-profile-readme-examples
+- https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
+- https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
 
 ## Contributions
 To contibute visit [Contibutions.md](https://github.com/suryachaitanya0/Awesome-profile-README/Contributions.md)
 
-Contributions are welcomed! <3
+###Contributions are welcomed! <3
 
-Found this project useful ❤️
-Support by clicking the ⭐ button on the upper right of this page.
+###Found this project useful ❤️
+###Support by clicking the ⭐ button on the upper right of this page.
