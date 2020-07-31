@@ -1,6 +1,6 @@
-# Awesome-profile-README:octocat:
+# Awesome-GithubProfile-README:octocat:
 
-Your beginner Profile-README Guide( A Guide to create a Awesome Profile-README). :smiley:
+Your beginner GithubProfile-README Guide( A Guide to create a Awesome Profile-README). :smiley:
 
 Github recently released a feature which allows users to create a profile-level README to display on their GitHub profile page,
 This is a great way to introduce yourself to the Github community as you highlight your skills and projects.
@@ -34,6 +34,8 @@ For example, my GitHub username is `suryachaitanya0` so, I created a new repo wi
 
 _One thing to Note: If you already have a project in a repo-named `#username/#username` and are interested in setting up a Profile-level README, then I recommend re-naming 
 that repository._
+
+![GitHub Repo Creation](/Images/Capture.png)
 
 **2. Create a `README.md` file inside the repo.**
 
@@ -94,7 +96,7 @@ That's it.:clap:
    
 **6. You are not limited to Markdown when it comes to editing your README. Github's Flavored Markdown allows using some of the HTML tags.**
 
-	Here's some of the basic things you can do:
+  Here's some of the basic things you can do:
 	* Center a section using `<center>`
 	* Create a widget that opens and closes using `<details>`
 
@@ -124,8 +126,8 @@ That's it.:clap:
 
 **10. automate your GitHub profile README**
 	
-	* [Create a dynamic Markdown file with Go and GitHub Actions](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
-	* You can also display latest blogs posts dynamically using [Github Action](https://github.com/features/actions)
+   * [Create a dynamic Markdown file with Go and GitHub Actions](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
+   * You can also display latest blogs posts dynamically using [Github Action](https://github.com/features/actions)
 
 ## Tired of editing Github Profile-README?
 
