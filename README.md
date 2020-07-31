@@ -149,7 +149,7 @@ This tool provides an easy way to create github profile readme with latest addon
 - https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
 
 ## Contributions
-To contibute visit [Contibutions.md](https://github.com/suryachaitanya0/Awesome-profile-README/Contributions.md)
+To contibute visit [Contibutions.md](Contributions.md)
 
 ### Contributions are welcomed! <3
 
