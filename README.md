@@ -1,6 +1,6 @@
 # Awesome-GithubProfile-README:octocat:
 
-Your beginner GithubProfile-README Guide( A Guide to create a Awesome Profile-README). :smiley:
+Your beginner GithubProfile-README Guide( A Guide to create Awesome Profile-README). :smiley:
 
 Github recently released a feature which allows users to create a profile-level README to display on their GitHub profile page,
 This is a great way to introduce yourself to the Github community as you highlight your skills and projects.
@@ -24,29 +24,31 @@ and takes up as much space above the fold of the webpage as you like.
 
 ## How do I create a Profile-README?
 
-The Profile-README is created by creating a new repo that’s the same name as your `username`.
+The Github-Profile-README is created by creating a new repo that’s the same name as your `username`.
 
 ### This is how it works:
 
 **1. Create a repo with your github username (e.g. `https://github.com/#your-username/#your-username`)**
 
 For example, my GitHub username is `suryachaitanya0` so, I created a new repo with the name `suryachaitanya0`.(The letter-casing must match your GitHub username.)
+<br>
 
-_One thing to Note: If you already have a project in a repo-named `#username/#username` and are interested in setting up a Profile-level README, then I recommend re-naming 
+![GitHub Repo Creation](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/Screenshot.png?raw=true)
+
+<br>
+
+_Note: If you already have a project in a repo-named `#username/#username` and are interested in setting up a Profile-level README, then I recommend re-naming 
 that repository._
-
-![GitHub Repo Creation](/Images/Capture.PNG)
-
-_In my case I already created a Repo with my username So It is showing as Invalid_  
+  
 
 **2. Create a `README.md` file inside the repo.**
 
-**3. Add content( introduction text,banner, links, GIFs, images, emojis, etc).**
+**3. Add content( Introduction Text, Banner, Links, GIFs, Images, Emojis etc).**
 
 **4. Commit your new README!**
 
   If you're on GitHub's web interface you can choose to commit directly to the repo's main branch (i.e., master or main) which will make it immediately 
-  visible on your profile) or Push changes to GitHub if you made changes locally (i.e., on your computer).
+  visible on your profile) or Push changes to GitHub if you made changes locally.( i.e., on your computer)
 
 That's it.:clap:
 
@@ -59,7 +61,10 @@ That's it.:clap:
 **3. Make your page memorable by Adding Images, Icons and GIF to make the page look bit dynamic, instead of just filling it with text.**
 
   You can also add a hero image( A large banner at the top of your page).
+  
   This is the first thing that people will see when they visit, so make it exciting!
+  
+  _Example: [Jayehernandez](https://github.com/jayehernandez)_
 
 **4. Include Stats**
 
@@ -71,7 +76,9 @@ That's it.:clap:
   #### Link to repo: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   
   ### 1. Adding GitHub Stats Card
+  
    Copy paste this into your markdown content, and that's it. Simple!
+   
    Change the `?username=` value to your GitHub's username.
    
    ```md
@@ -79,6 +86,11 @@ That's it.:clap:
    ```
    
    _Note: Ranks are calculated based on user's stats, see [src/calculateRank.js](./src/calculateRank.js)_
+   
+   _Example:_
+   
+   ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true))
+   
    
    ### 2. Include Top Languages Card
 
@@ -94,6 +106,10 @@ That's it.:clap:
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=#your-username)](https://github.com/anuraghazra/github-readme-stats)
    ```
    
+   _Example:_
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+   
    #### For more Information on stats visit [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
    
 **6. You are not limited to Markdown when it comes to editing your README. Github's Flavored Markdown allows using some of the HTML tags.**
@@ -104,9 +120,11 @@ That's it.:clap:
 * Create a widget that opens and closes using `<details>`
 
 **7. Want to link to external sites? Add some icons which redirect to your social networks or projects.**
+
   I recommend using the free and open source RemixIcon library and just changed the color to suit the color scheme.
   
-  _One thing to note: Make sure your images are of great quality. We wouldn't want images to show up pixelated.
+  _Note: Make sure your images are of great quality. We wouldn't want images to show up pixelated.
+  
   If you are using vector images, upload them using SVG instead of JPG or PNG._
 
 **8. Add View-counter to GitHub profile**
@@ -120,10 +138,13 @@ That's it.:clap:
  ```markdown
  ![](https://komarev.com/ghpvc/?username=#your-username)
  ```
+  _Example:_
+ 
+ ![](https://komarev.com/ghpvc/?username=suryachaitanya0)
  
  #### For more Information about counter visit [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter/)
  
- I recommand to create a own view-counter
+ _I recommend to create your own view-counter hosted on a private server_
  
 **9. Highlighting, what all your working on right now.**
 
@@ -149,6 +170,7 @@ This tool provides an easy way to create github profile readme with latest addon
 - https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
 
 ## Contributions
+
 To contibute visit [Contibutions.md](Contributions.md)
 
 ### Contributions are welcomed! <3
