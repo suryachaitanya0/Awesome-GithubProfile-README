@@ -123,9 +123,9 @@ That's it.:clap:
 
   I recommend using the free and open source RemixIcon library and just changed the color to suit the color scheme.
   
-  _Note: Make sure your images are of great quality. We wouldn't want images to show up pixelated.
+  _Note: Make sure your images are of great quality. We wouldn't want images to show up pixelated._
   
-  If you are using vector images, upload them using SVG instead of JPG or PNG._
+  _If you are using vector images, upload them using SVG instead of JPG or PNG._
 
 **8. Add View-counter to GitHub profile**
 
