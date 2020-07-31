@@ -35,7 +35,9 @@ For example, my GitHub username is `suryachaitanya0` so, I created a new repo wi
 _One thing to Note: If you already have a project in a repo-named `#username/#username` and are interested in setting up a Profile-level README, then I recommend re-naming 
 that repository._
 
-![GitHub Repo Creation](/Images/Capture.png)
+![GitHub Repo Creation](/Images/Capture.PNG)
+
+_In my case I already created a Repo with my username So It is showing as Invalid_  
 
 **2. Create a `README.md` file inside the repo.**
 
@@ -97,8 +99,9 @@ That's it.:clap:
 **6. You are not limited to Markdown when it comes to editing your README. Github's Flavored Markdown allows using some of the HTML tags.**
 
   Here's some of the basic things you can do:
-	* Center a section using `<center>`
-	* Create a widget that opens and closes using `<details>`
+  
+* Center a section using `<center>`
+* Create a widget that opens and closes using `<details>`
 
 **7. Want to link to external sites? Add some icons which redirect to your social networks or projects.**
   I recommend using the free and open source RemixIcon library and just changed the color to suit the color scheme.
