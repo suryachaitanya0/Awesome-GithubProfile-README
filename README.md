@@ -70,7 +70,7 @@ That's it.:clap:
 
   If you are using Github for your projects or use it to contribute to open source, you probably have a lot of commits and Pull Requests.
   
-  Anurag Hazra created amazing widget which compiles all those stats into one.
+  [Anurag Hazra](https://github.com/anuraghazra) created amazing widget which compiles all those stats into one.
   It generates GitHub stats dynamically on your readmes!
   
   #### Link to repo: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
@@ -140,15 +140,15 @@ That's it.:clap:
  ```
   _Example:_
  
- ![](https://komarev.com/ghpvc/?username=suryachaitanya0)
+ ![](https://komarev.com/ghpvc/?username=your-username)
  
  #### For more Information about counter visit [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter/)
  
- _I recommend to create your own view-counter hosted on a private server_
+ _I recommend to create your own view-counter (or fork existing repo) and host on your own server._
  
 **9. Highlighting, what all your working on right now.**
 
-**10. automate your GitHub profile README**
+**10. Automate your GitHub profile README**
 	
    * [Create a dynamic Markdown file with Go and GitHub Actions](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
    * You can also display latest blogs posts dynamically using [Github Action](https://github.com/features/actions)
