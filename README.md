@@ -1,4 +1,4 @@
-<h1 align= center>Awesome-GithubProfile-README:octocat:</h1><br><br>
+<h1 align= center>Awesome-GithubProfile-README:octocat:</h1><br>
 <p align = center>
 Your beginner GithubProfile-README Guide( A Guide to create Awesome Profile-README). :smiley:
 Github recently released a feature which allows users to create a profile-level README to display on their GitHub profile page,
@@ -11,10 +11,12 @@ This is a great way to introduce yourself to the Github community as you highlig
 - [What's a Github Profile-README?](#What's-a-Github-Profile-README?)
 - [How do I create a Profile-README?](#How-do-I-create-a-Profile-README?)
 - [What to add to your README?](#What-to-add-to-your-README?)
-- [References](#References)
+- [Tired of editing Github Profile-README?](#Tired-of-editing-Github-Profile-README?)
+- [Additional References](#Additional-References)
 - [Additional Resources](#Additional-Resources)
 - [Contributions](#Contributions)
-<br><br>
+<br>
+
 ## What's a Github Profile-README?
 
 Apparently `www.github.com/#your-username/#your-username` is a ✨special ✨ repository that you can use to add a `README.md` to your GitHub profile.
@@ -34,7 +36,7 @@ The Github-Profile-README is created by creating a new repo that’s the same na
 For example, my GitHub username is `suryachaitanya0` so, I created a new repo with the name `suryachaitanya0`.(The letter-casing must match your GitHub username.)
 <br><br>
 
-![GitHub Repo Creation](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/Screenshot.png?raw=true)
+![GitHub Repo Creation](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/createrepo.png?raw=true)
 
 <br>
 
@@ -53,6 +55,7 @@ that repository._
 
 **That's it.:clap:**
 <br>
+
 ## What to add to your README?
 
 ### 1. A Greeting message.
@@ -66,17 +69,19 @@ that repository._
   This is the first thing that people will see when they visit, so make it exciting!
   
   _Example: [Jayehernandez](https://github.com/jayehernandez)_
-
-### 4. Include Stats
+  <br><br>
+  ![jaye](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/jaye.png?raw=true)
+  <br>
+### 4. Include Stats.
 
   If you are using Github for your projects or use it to contribute to open source, you probably have a lot of commits and Pull Requests.
   
-  [Anurag Hazra](https://github.com/anuraghazra) created amazing widget which compiles all those stats into one.
+  [Anurag Hazra](https://github.com/anuraghazra) created amazing Repo which compiles all those stats into one.
   It generates GitHub stats dynamically on your readmes!
   
   #### Link to repo: [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
   
-  **1. Adding GitHub Stats Card**
+  **1. Adding GitHub Stats Card.**
   
    Copy paste this into your markdown content, and that's it. Simple!
    
@@ -93,7 +98,7 @@ that repository._
    ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true))
    
    
-   **2. Include Top Languages Card**
+   **2. Include Top Languages Card.**
 
    Top languages card shows github user's top langauges which has been mostly used.
 
@@ -128,11 +133,11 @@ that repository._
   
   _If you are using vector images, upload them using SVG instead of JPG or PNG._
 
-### 8. Add View-counter to GitHub profile
+### 8. Add View-counter to GitHub profile.
 
- [Anton komarev](https://github.com/antonkomarev) created amazing widget which counts the visitors.
+ [Anton komarev](https://github.com/antonkomarev) created amazing Repo which counts the visitors.
  
- #### Link to repo: [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter/)
+ #### Link to the Repo: [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter/)
  
  Copy-paste this code into your readme and Change the `?username=` value to your GitHub's username.
 
@@ -150,7 +155,31 @@ that repository._
  
 ### 9. Highlighting, what all your working on right now.
 
-### 10. Automate your GitHub profile README:
+### 10. Show your latest blog posts from any sources or StackOverflow activity
+
+[Gautamkrishnar](https://github.com/gautamkrishnar) created amazing repo which Shows your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed
+
+Follow the repo Readme to add to your profile.
+#### Link to the Repo : [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
+
+_Example:_
+<br><br>
+![](https://user-images.githubusercontent.com/8397274/88047382-29b8b280-cb6f-11ea-9efb-2af2b10f3e0c.png)
+<br>
+
+### 11.Add Wakatime Weekly Metrics.
+
+[Athul](https://github.com/athul) created amazing repo which Shows your Dev Metrics in Readme.
+
+Follow the repo Readme to add to your profile.
+#### Link to the Repo : [waka-readme](https://github.com/athul/waka-readme)
+
+_Example:_
+<br><br>
+![](https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png)
+<br>
+
+### 12. Automate your GitHub profile README:
 	
    * Create a dynamic Markdown file with Go and GitHub Actions,[Click here](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
    * Create Your Github readme with automated news data,[Click here](https://dev.to/mridul037/create-your-github-readme-with-automated-news-data-3a7n)
@@ -162,25 +191,21 @@ that repository._
 Try These tools,They provides an easy way to create github profile readme with latest addons like visitors count, github stats etc.
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [github-profilinator](https://github.com/rishavanand/github-profilinator)
-<br>
 
-## References:
+## Additional References:
 
 - https://github.com/coderjojo/creative-profile-readme
 - https://github.com/kautukkundan/Awesome-Profile-README-templates
-<br>
 
 ## Additional Resources:
 
 - https://mytrashcode.com/github-profile-readme-examples
 - https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
 - https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
-<br>
 
 ## Contributions
 
 To contibute visit [Contibutions.md](Contributions.md)
-<br>
 
 ### Contributions are welcomed! <3
 
