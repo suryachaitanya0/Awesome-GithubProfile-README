@@ -1,8 +1,9 @@
 <h1 align= center>Awesome-GithubProfile-README:octocat:</h1><br><br>
+<p align = center>
 Your beginner GithubProfile-README Guide( A Guide to create Awesome Profile-README). :smiley:
-
 Github recently released a feature which allows users to create a profile-level README to display on their GitHub profile page,
 This is a great way to introduce yourself to the Github community as you highlight your skills and projects.
+</p>
 <br><br>
 
 # Table of contents::book: 
@@ -58,7 +59,7 @@ that repository._
 
 ### 2. Bio or Self-description(Try to keep it simple).
 
-###3. Make your page memorable by Adding Images, Icons and GIF to make the page look bit dynamic, instead of just filling it with text.
+### 3. Make your page memorable by Adding Images, Icons and GIF to make the page look bit dynamic, instead of just filling it with text.
 
   You can also add a hero image( A large banner at the top of your page).
   
@@ -121,7 +122,7 @@ that repository._
 
 ### 7. Want to link to external sites? Add some icons which redirect to your social networks or projects.
 
-  I recommend using the free and open source RemixIcon library and just changed the color to suit the color scheme.
+  I recommend using the free and open source [RemixIcon library](https://remixicon.com/) and just changed the color to suit the color scheme.
   
   _Note: Make sure your images are of great quality. We wouldn't want images to show up pixelated._
   
@@ -145,34 +146,42 @@ that repository._
  #### For more Information about counter visit [github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter/)
  
  _I recommend to create your own view-counter (or fork existing repo) and host on your own server._
+ * Here is a article about creating view counter,[Click here](https://dev.to/tod/github-profile-view-counter-igj)
  
 ### 9. Highlighting, what all your working on right now.
 
 ### 10. Automate your GitHub profile README:
 	
-   * [Create a dynamic Markdown file with Go and GitHub Actions](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
+   * Create a dynamic Markdown file with Go and GitHub Actions,[Click here](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
+   * Create Your Github readme with automated news data,[Click here](https://dev.to/mridul037/create-your-github-readme-with-automated-news-data-3a7n)
    * You can also display latest blogs posts dynamically using [Github Action](https://github.com/features/actions)
-<br>
+   * create a self-updating Github Profile,[Click here](https://dev.to/ragebill/how-to-create-a-self-updating-github-profile-2m22)
+   
 ## Tired of editing Github Profile-README?
 
-This tool provides an easy way to create github profile readme with latest addons like visitors count, github stats etc.
-- https://github.com/rahuldkjain/github-profile-readme-generator
+Try These tools,They provides an easy way to create github profile readme with latest addons like visitors count, github stats etc.
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [github-profilinator](https://github.com/rishavanand/github-profilinator)
 <br>
+
 ## References:
 
 - https://github.com/coderjojo/creative-profile-readme
 - https://github.com/kautukkundan/Awesome-Profile-README-templates
 <br>
+
 ## Additional Resources:
 
 - https://mytrashcode.com/github-profile-readme-examples
 - https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
 - https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
 <br>
+
 ## Contributions
 
 To contibute visit [Contibutions.md](Contributions.md)
 <br>
+
 ### Contributions are welcomed! <3
 
 #### Found this project useful ❤️,Support by clicking the ⭐ button on the upper right of this page.
