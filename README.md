@@ -35,7 +35,6 @@ The Github-Profile-README is created by creating a new repo that’s the same na
 
 For example, my GitHub username is `suryachaitanya0` so, I created a new repo with the name `suryachaitanya0`.(The letter-casing must match your GitHub username.)
 <br><br>
-
 ![GitHub Repo Creation](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/createrepo.png?raw=true)
 
 <br>
@@ -163,7 +162,7 @@ Follow the repo Readme to add to your profile.
 #### Link to the Repo : [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 _Example:_
 <br><br>
-![](https://user-images.githubusercontent.com/8397274/88047382-29b8b280-cb6f-11ea-9efb-2af2b10f3e0c.png)
+![blogpost](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/blogposts.png?raw=true)
 <br>
 
 ### 11. Add Wakatime Weekly Metrics.
@@ -174,7 +173,7 @@ Follow the repo Readme to add to your profile.
 #### Link to the Repo : [waka-readme](https://github.com/athul/waka-readme)
 _Example:_
 <br><br>
-![](https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png)
+![waka](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/waka.png?raw=true)
 <br>
 
 ### 12. Automate your GitHub profile README:
@@ -187,8 +186,8 @@ _Example:_
 ## Tired of editing Github Profile-README?
 
 Try These tools,They provides an easy way to create github profile readme with latest addons like visitors count, github stats etc.
-- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator)
-- [github-profilinator](https://github.com/rishavanand/github-profilinator)
+- [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) By [Rahuldkjain](https://github.com/rahuldkjain/)
+- [github-profilinator](https://github.com/rishavanand/github-profilinator) By [rishavanand](https://github.com/rishavanand/)
 
 ## Additional References:
 
