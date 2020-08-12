@@ -161,19 +161,17 @@ that repository._
 
 Follow the repo Readme to add to your profile.
 #### Link to the Repo : [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
-
 _Example:_
 <br><br>
 ![](https://user-images.githubusercontent.com/8397274/88047382-29b8b280-cb6f-11ea-9efb-2af2b10f3e0c.png)
 <br>
 
-### 11.Add Wakatime Weekly Metrics.
+### 11. Add Wakatime Weekly Metrics.
 
 [Athul](https://github.com/athul) created amazing repo which Shows your Dev Metrics in Readme.
 
 Follow the repo Readme to add to your profile.
 #### Link to the Repo : [waka-readme](https://github.com/athul/waka-readme)
-
 _Example:_
 <br><br>
 ![](https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png)
@@ -184,7 +182,7 @@ _Example:_
    * Create a dynamic Markdown file with Go and GitHub Actions,[Click here](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
    * Create Your Github readme with automated news data,[Click here](https://dev.to/mridul037/create-your-github-readme-with-automated-news-data-3a7n)
    * You can also display latest blogs posts dynamically using [Github Action](https://github.com/features/actions)
-   * create a self-updating Github Profile,[Click here](https://dev.to/ragebill/how-to-create-a-self-updating-github-profile-2m22)
+   * Create a self-updating Github Profile,[Click here](https://dev.to/ragebill/how-to-create-a-self-updating-github-profile-2m22)
    
 ## Tired of editing Github Profile-README?
 
