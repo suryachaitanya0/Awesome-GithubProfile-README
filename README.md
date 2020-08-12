@@ -15,7 +15,6 @@ This is a great way to introduce yourself to the Github community as you highlig
 - [Additional References](#Additional-References)
 - [Additional Resources](#Additional-Resources)
 - [Contributions](#Contributions)
-<br>
 
 ## What's a Github Profile-README?
 
@@ -152,6 +151,9 @@ that repository._
  _I recommend to create your own view-counter (or fork existing repo) and host on your own server._
  * Here is a article about creating view counter,[Click here](https://dev.to/tod/github-profile-view-counter-igj)
  
+ _Alternatives:_
+ [visitor-badge](https://visitor-badge.glitch.me/) By [Jwenjian](https://github.com/jwenjian/)
+ 
 ### 9. Highlighting, what all your working on right now.
 
 ### 10. Show your latest blog posts from any sources or StackOverflow activity
@@ -167,38 +169,64 @@ _Example:_
 
 ### 11. Add Wakatime Weekly Metrics.
 
-[Athul](https://github.com/athul) created amazing repo which Shows your Dev Metrics in Readme.
+[Athul](https://github.com/athul), [Anmol1098](https://github.com/anmol098) created amazing Repos which Shows your Dev Metrics in Readme.
 
 Follow the repo Readme to add to your profile.
-#### Link to the Repo : [waka-readme](https://github.com/athul/waka-readme)
+#### Link to the Repo : [waka-readme](https://github.com/athul/waka-readme) By [Athul](https://github.com/athul)
+#### Link to the Repo : [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) By [Anmol1098](https://github.com/anmol098)
 _Example:_
 <br><br>
 ![waka](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/waka.png?raw=true)
 <br>
 
-### 12. Automate your GitHub profile README:
+### 12. Add Colored Badges,Shields etc.
+
+Add badges to your Profile. Here are some Repos, you can use to add Badges or Shields.
+- [Markdown-badges](https://github.com/Ileriayo/markdown-badges) By [Ileriayo](https://github.com/Ileriayo)
+- [Shields](https://shields.io/) By Shields.io
+- [ColoredBadges](https://github.com/MikeCodesDotNET/ColoredBadges) By [MikeCodesDotNET](https://github.com/MikeCodesDotNET)
+
+### 13. Automate your GitHub profile README:
 	
    * Create a dynamic Markdown file with Go and GitHub Actions,[Click here](https://victoria.dev/blog/go-automate-your-github-profile-readme/)
    * Create Your Github readme with automated news data,[Click here](https://dev.to/mridul037/create-your-github-readme-with-automated-news-data-3a7n)
    * You can also display latest blogs posts dynamically using [Github Action](https://github.com/features/actions)
    * Create a self-updating Github Profile,[Click here](https://dev.to/ragebill/how-to-create-a-self-updating-github-profile-2m22)
    
+### 14. Include other website stats, Extras.
+
+   * Add linkedin profile stats: [Github-readme-linkedin](https://github.com/soroushchehresa/github-readme-linkedin) By [Soroushchehresa](https://github.com/soroushchehresa)
+   
+   * Add Stackoverflow stats: [Github-readme-stackoverflow](https://github.com/omidnikrah/github-readme-stackoverflow) By [Omidnikrah](https://github.com/omidnikrah/)
+   
+   
+   * Add Medium article stats: [Github-readme-medium](https://github.com/omidnikrah/github-readme-medium) By [Omidnikrah](https://github.com/omidnikrah/)
+   
+   * Add spotify now playing card: [Spotify-github-profile](https://github.com/kittinan/spotify-github-profile) By [Kittinan](https://github.com/kittinan)
+   
+   * Add Programming jokes: [readme-jokes](https://github.com/ABSphreak/readme-jokes) By [ABSphreak](https://github.com/ABSphreak)
+   
 ## Tired of editing Github Profile-README?
 
 Try These tools,They provides an easy way to create github profile readme with latest addons like visitors count, github stats etc.
 - [github-profile-readme-generator](https://github.com/rahuldkjain/github-profile-readme-generator) By [Rahuldkjain](https://github.com/rahuldkjain/)
 - [github-profilinator](https://github.com/rishavanand/github-profilinator) By [rishavanand](https://github.com/rishavanand/)
+- [github-profile-readme-generator](https://github.com/arturssmirnovs/github-profile-readme-generator) By [Arturssmirnovs](https://github.com/arturssmirnovs)
 
 ## Additional References:
 
 - https://github.com/coderjojo/creative-profile-readme
 - https://github.com/kautukkundan/Awesome-Profile-README-templates
+- https://github.com/elangosundar/awesome-README-templates
+- https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 ## Additional Resources:
 
 - https://mytrashcode.com/github-profile-readme-examples
 - https://dev.to/jayehernandez/3-ways-to-spice-up-your-github-profile-readme-1276
 - https://dev.to/m0nica/how-to-create-a-github-profile-readme-1paj
+- https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n
+- https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/
 
 ## Contributions
 
