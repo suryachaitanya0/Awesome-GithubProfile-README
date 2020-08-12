@@ -176,7 +176,10 @@ Follow the repo Readme to add to your profile.
 #### Link to the Repo : [waka-readme-stats](https://github.com/anmol098/waka-readme-stats) By [Anmol1098](https://github.com/anmol098)
 _Example:_
 <br><br>
-![waka](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/waka.png?raw=true)
+![waka](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/waka1.png?raw=true)
+<br>
+<br><br>
+![waka](https://github.com/suryachaitanya0/Awesome-GithubProfile-README/blob/master/images/waka2.png?raw=true)
 <br>
 
 ### 12. Add Colored Badges,Shields etc.
